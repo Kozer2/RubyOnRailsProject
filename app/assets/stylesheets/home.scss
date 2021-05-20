@@ -1,3 +1,54 @@
 // Place all the styles related to the home controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+
+// *{
+//     background-color: whitesmoke;
+// }
+header{
+    margin-top: 25px;
+    text-align: center;
+    font-size: 30px;
+}
+.aboutMe h1, p, img{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    font-size: 25px;
+    margin: 0 auto;
+}
+.links{
+    display: inline;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+}
+.links ul{
+    list-style-position: inside;
+}
+
+.navBar{
+    width: 100%;
+    background-color: blue;
+    height: 50px;
+    top: 0px;
+    /* position: fixed; */
+    margin-top:0px;
+    
+  }
+  .navBar li{
+    display: inline;
+    margin: 15px;
+    text-align: center;
+    color: rgba(202, 190, 190, 0.678);
+    font-size: 25px;
+    margin-top:50px;
+  }
+  .navBar a{
+    
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top:50px;
+  }
