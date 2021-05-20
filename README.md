@@ -18,6 +18,12 @@ You can add extra tags to this to tell Rails what you want to do with the projec
 Images!
 ![Creating a controller](Assets/creating page and controller)
 
-![Creating a controller](Assets/creatingpageandcontroller)
+![Creating a new page with controller](Assets/creatingpageandcontroller)
 
-![Creating a controller](Assets/creatingpageandcontroller)
+![Creating a controller](Assets/controllerwithaboutmeadded)
+
+![Database page](Assets/db)
+
+![Setting the home root path](Assets/homeRoot)
+
+![CSS](Assets/HomeCSS)
