@@ -1,24 +1,8 @@
-# README
+# RubyOnRailsProject
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project was envisioned as something for me to learn the basics of Ruby on Rails and to teach myself something new. 
+I am following along with a webpage and a youtube video to develop it. 
+https://www.youtube.com/watch?v=fmyvWz5TUWg
+https://guides.rubyonrails.org/getting_started.html
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Test
