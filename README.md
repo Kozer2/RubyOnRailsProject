@@ -24,6 +24,6 @@ Images!
 
 ![Database page](Assets/db)
 
-![Setting the home root path](Assets/homeRoot)
+![Setting the home root path](../Assets/homeRoot)
 
-![CSS](Assets/HomeCSS)
+![CSS](../Assets/HomeCSS)
