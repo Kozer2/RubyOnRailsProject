@@ -16,14 +16,13 @@ Creating a new rails project is as simple as typing ```rails new blog```
 You can add extra tags to this to tell Rails what you want to do with the project. You could add --api to the end which tells rails that you will be working with an API and it can leave some stuff out. 
 
 Images!
-![Creating a controller](Assets/creating page and controller)
 
-![Creating a new page with controller](Assets/creatingpageandcontroller)
+![Creating a new page with controller](Assets/creatingpageandcontroller.PNG)
 
-![Creating a controller](Assets/controllerwithaboutmeadded)
+![Creating a controller](Assets/controllerwithaboutmeadded.PNG)
 
-![Database page](Assets/db)
+![Database page](Assets/db.PNG)
 
-![Setting the home root path](../Assets/homeRoot)
+![Setting the home root path](Assets/homeRoot.PNG)
 
-![CSS](../Assets/HomeCSS)
+![CSS](Assets/HomeCSS.PNG)
